@@ -12,7 +12,7 @@ import {
   Checkbox,
 } from "@mui/material";
 import LineGraph from "../../components/LineGraph";
-import CandlestickChart from "../../components/CandlestickChart";
+import CandlestickChart from "../../components/CandleStickChart";
 import StockDetails from "../../components/StockDetails";
 
 const generateRandomData = () => {
